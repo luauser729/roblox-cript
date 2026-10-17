@@ -476,7 +476,7 @@ end)
 -- ==================== Tab 内容 ====================
 -- 公告
 local T1 = Window:Tab({Title = "公告", Icon = "info"})
-T1:Section({Title = "黑脚本--死铁轨"})
+T1:Section({Title = "神脚本--死铁轨"})
 T1:Paragraph({
     Title = "功能说明",
     Desc = "• 透视僵尸/狼人/债券\n• 刷债券\n• 多武器快速攻击\n• 吸全图物品(1700-4000)\n• 夜视\n• 二段跳"
